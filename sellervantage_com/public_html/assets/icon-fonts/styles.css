@@ -234,13 +234,14 @@ src: url('fonts/712-icon-fonts.svg#712-icon-fonts') format('svg');
 .icon-japan-streamline-tea:before {
   content: "!";
 }
-.icon-laptop-macbook-streamline:before {
-  content: "\"";
-}
-.icon-like-love-streamline:before {
-  content: "#";
-  
-}
+// .icon-laptop-macbook-streamline:before {
+//  content: "\"";
+//} 
+      
+//.icon-like-love-streamline:before {
+//  content: "";
+//}
+
 .icon-link-streamline:before {
   content: "$";
 }
